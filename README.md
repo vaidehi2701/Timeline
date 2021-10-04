@@ -1,4 +1,4 @@
-# timeline
+# Timeline Package
 
 A new Flutter application.
 
